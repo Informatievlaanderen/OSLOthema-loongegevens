@@ -1,20 +1,26 @@
 {
-    "naam": "Applicatieprofiel loongegevens",
-    "rapport" : "",
-    "verantwoordelijke_organisatie": "Agentschap Uitbetaling Groeipakket",
-    "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO008643",
-    "publicatiedatum": "2021-09-16",
-    "type_toepassing": "TBD",
-    "categorie": "Applicatieprofiel",
-    "beschrijving" : "ap-loongegevens.md",
-    "specificatiedocument": [
-      {
-        "naam": "Loongegevens Applicatieprofiel",
-        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/loongegevens"}
-    ],
-    "documentatie": [],
-    "charter": [],
-    "verslagen": [
+  "naam": "Applicatieprofiel loongegevens",
+  "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/loongegevens/kandidaatstandaard/2022-03-17/all-loongegevens-ap.jsonld",
+  "verantwoordelijke_organisatie": "Agentschap Uitbetaling Groeipakket",
+  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO008643",
+  "publicatiedatum": "2021-09-16",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Applicatieprofiel",
+  "beschrijving": "ap-loongegevens.md",
+  "specificatiedocument": [
+    {
+      "naam": "Loongegevens Applicatieprofiel",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/loongegevens"
+    }
+  ],
+  "documentatie": [],
+  "charter": [
+    {
+      "naam": "OSLO Loongegevens Charter",
+      "waarde": "Template-Werkgroep-Charter-OSLO.docx"
+    }
+  ],
+  "verslagen": [
     {
       "naam": "Verslag thematische werkgroep 1 - 30 september 2021",
       "waarde": "OSLO Loongegevens - Thematische werkgroep 1 (30-09-2021).docx"
@@ -51,8 +57,8 @@
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor het ontsluiten van loongegevens.",
-    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid en erkende sociale secretariaten",
-    "datum_van_aanmelding": "2021-09-16",
-    "erkenning_werkgroep_datastandaarden": "17 maart 2022",
-    "erkenning_stuurgroep": "TBD"
-  }
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid en erkende sociale secretariaten",
+  "datum_van_aanmelding": "2021-09-16",
+  "erkenning_werkgroep_datastandaarden": "17 maart 2022",
+  "erkenning_stuurgroep": "TBD"
+}
