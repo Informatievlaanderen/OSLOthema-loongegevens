@@ -1,6 +1,6 @@
 [
 {
-  "name": "loongegevens-voc",
+  "name": "loongegevens",
   "type": "voc",
   "eap": "OSLO-Loongegevens.eap",
   "diagram": "OSLO-Loongegevens",
