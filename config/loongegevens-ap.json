@@ -1,18 +1,18 @@
 [
-  {
-    "name": "loongegevens-ap",
-    "type": "ap",
-    "eap": "OSLO-Loongegevens.eap",
-    "diagram": "OSLO-Loongegevens",
-    "template": "loongegevens-ap.j2",
-    "title": "Loongegevens (Applicatieprofiel)",
-    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-    "publication-date": "2022-03-17",
-    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-    "contributors-file": "stakeholders.csv",
-    "contributors-column": "Loongegevens",
-    "site": "site-skeleton/loongegevens-ap",
-    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-loongegevens/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-loongegevens.html"
-  }
+{
+  "name": "loongegevens-ap",
+  "type": "ap",
+  "eap": "OSLO-Loongegevens.eap",
+  "diagram": "OSLO-Loongegevens",
+  "template": "loongegevens-ap.j2",
+  "title": "Loongegevens (Applicatieprofiel)",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+  "publication-date": "2022-03-17",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Loongegevens",
+  "site": "site-skeleton/loongegevens-ap",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-loongegevens/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-loongegevens/"
+}
 ]
